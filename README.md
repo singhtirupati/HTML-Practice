@@ -10,10 +10,10 @@
 ## Screenshots
 
 **Task 1:**
-![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/html-task1.jpg)
+![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/images/html-task1.jpg)
 
 **Task 2:**
-![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/html-task2.jpg)
+![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/images/html-task2.jpg)
 
 **Task 3:**
-![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/html-task3.jpg)
+![App Screenshot](https://github.com/singhtirupati/HTML-Practice/blob/main/images/html-task3.jpg)
